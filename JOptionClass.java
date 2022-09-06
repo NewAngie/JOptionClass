@@ -55,7 +55,7 @@ public class JOptionClass {
                     System.out.println("Incorrecto");
                     break;
             }
-        }while(option!=7);
+        }while(option!=7);//Esta es una modificacion para GIT
     }
 }
 
